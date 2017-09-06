@@ -1,0 +1,1 @@
+clones/n604p/clone_info.mk
